@@ -26,6 +26,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 - [dotenv](https://www.npmjs.com/package/dotenv)
 - [csv-parse](https://www.npmjs.com/package/csv-parse)
 - [Jest](https://www.npmjs.com/package/jest)
+- [Cors](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Controle_Acesso_CORS)
 
 ---
 
